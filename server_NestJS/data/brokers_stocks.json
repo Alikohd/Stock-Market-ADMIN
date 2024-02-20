@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "AAPL": {
+      "qty": 0,
+      "balance": 469.7374999999999
+    },
+    "SBUX": {
+      "qty": 0,
+      "balance": 0
+    },
+    "MSFT": {
+      "qty": 0,
+      "balance": 232.3100000000013
+    },
+    "CSCO": {
+      "qty": 5,
+      "balance": -264.79999999999995
+    },
+    "QCOM": {
+      "qty": 0,
+      "balance": 0
+    },
+    "AMZN": {
+      "qty": 0,
+      "balance": 0
+    },
+    "TSLA": {
+      "qty": 0,
+      "balance": 0
+    },
+    "AMD": {
+      "qty": 0,
+      "balance": 0
+    }
+  },
+  {
+    "id": 2,
+    "AAPL": {
+      "qty": 16,
+      "balance": -2485.545
+    },
+    "SBUX": {
+      "qty": 0,
+      "balance": 0
+    },
+    "MSFT": {
+      "qty": 0,
+      "balance": 0
+    },
+    "CSCO": {
+      "qty": 2,
+      "balance": -104.24
+    },
+    "QCOM": {
+      "qty": 0,
+      "balance": 0
+    },
+    "AMZN": {
+      "qty": 0,
+      "balance": 0
+    },
+    "TSLA": {
+      "qty": 0,
+      "balance": 0
+    },
+    "AMD": {
+      "qty": 0,
+      "balance": 0
+    }
+  },
+  {
+    "id": 3,
+    "AAPL": {
+      "qty": 1,
+      "balance": 100
+    },
+    "SBUX": {
+      "qty": 0,
+      "balance": 0
+    },
+    "MSFT": {
+      "qty": 0,
+      "balance": 0
+    },
+    "CSCO": {
+      "qty": 6,
+      "balance": -320.34
+    },
+    "QCOM": {
+      "qty": 0,
+      "balance": 0
+    },
+    "AMZN": {
+      "qty": 0,
+      "balance": 0
+    },
+    "TSLA": {
+      "qty": 0,
+      "balance": 0
+    },
+    "AMD": {
+      "qty": 0,
+      "balance": 0
+    }
+  },
+  {
+    "id": 4,
+    "AAPL": {
+      "qty": 1,
+      "balance": 100
+    },
+    "SBUX": {
+      "qty": 0,
+      "balance": 0
+    },
+    "MSFT": {
+      "qty": 0,
+      "balance": 0
+    },
+    "CSCO": {
+      "qty": 0,
+      "balance": 0
+    },
+    "QCOM": {
+      "qty": 0,
+      "balance": 0
+    },
+    "AMZN": {
+      "qty": 0,
+      "balance": 0
+    },
+    "TSLA": {
+      "qty": 0,
+      "balance": 0
+    },
+    "AMD": {
+      "qty": 0,
+      "balance": 0
+    }
+  },
+  {
+    "id": 5,
+    "AAPL": {
+      "qty": 1,
+      "balance": 100
+    },
+    "SBUX": {
+      "qty": 0,
+      "balance": 0
+    },
+    "MSFT": {
+      "qty": 0,
+      "balance": 0
+    },
+    "CSCO": {
+      "qty": 0,
+      "balance": 0
+    },
+    "QCOM": {
+      "qty": 0,
+      "balance": 0
+    },
+    "AMZN": {
+      "qty": 0,
+      "balance": 0
+    },
+    "TSLA": {
+      "qty": 0,
+      "balance": 0
+    },
+    "AMD": {
+      "qty": 0,
+      "balance": 0
+    }
+  },
+  {
+    "id": 6,
+    "AAPL": {
+      "qty": 1,
+      "balance": 100
+    },
+    "SBUX": {
+      "qty": 0,
+      "balance": 0
+    },
+    "MSFT": {
+      "qty": 0,
+      "balance": 0
+    },
+    "CSCO": {
+      "qty": 0,
+      "balance": 0
+    },
+    "QCOM": {
+      "qty": 0,
+      "balance": 0
+    },
+    "AMZN": {
+      "qty": 0,
+      "balance": 0
+    },
+    "TSLA": {
+      "qty": 0,
+      "balance": 0
+    },
+    "AMD": {
+      "qty": 0,
+      "balance": 0
+    }
+  },
+  {
+    "id": 7,
+    "AAPL": {
+      "qty": 1,
+      "balance": 100
+    },
+    "SBUX": {
+      "qty": 0,
+      "balance": 0
+    },
+    "MSFT": {
+      "qty": 0,
+      "balance": 0
+    },
+    "CSCO": {
+      "qty": 0,
+      "balance": 0
+    },
+    "QCOM": {
+      "qty": 0,
+      "balance": 0
+    },
+    "AMZN": {
+      "qty": 0,
+      "balance": 0
+    },
+    "TSLA": {
+      "qty": 0,
+      "balance": 0
+    },
+    "AMD": {
+      "qty": 0,
+      "balance": 0
+    }
+  },
+  {
+    "id": 8,
+    "AAPL": {
+      "qty": 1,
+      "balance": 100
+    },
+    "SBUX": {
+      "qty": 0,
+      "balance": 0
+    },
+    "MSFT": {
+      "qty": 0,
+      "balance": 0
+    },
+    "CSCO": {
+      "qty": 0,
+      "balance": 0
+    },
+    "QCOM": {
+      "qty": 0,
+      "balance": 0
+    },
+    "AMZN": {
+      "qty": 0,
+      "balance": 0
+    },
+    "TSLA": {
+      "qty": 0,
+      "balance": 0
+    },
+    "AMD": {
+      "qty": 0,
+      "balance": 0
+    }
+  }
+]
